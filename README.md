@@ -25,9 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-<gif src='https://imgur.com/a/IWP3pPe.gif' title='tip Calculator' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented user stories:(https://imgur.com/a/IWP3pPe.gif).
 
 GIF created with [recordit](https://recordit.co).
 
